@@ -1,7 +1,9 @@
-
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhuNG5zNjhrbDRidXM3am42YTA2a3pvNzNrZXM2NzFsZm9uOXcwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12W5Sg2koWYnwA/giphy.gif" width="100%" height="300">
+</p>
 <h1 align="center">Hi 👋, I'm NILAY MAZUMDER</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/50/44/30/50443067a22e6dd1ecc2d2e394d6e634.gif">
+<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NmYzdudTkzZTNvZmR1a2dmcmNkMW9yZXI5bGF1cTZla25la2drdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilaymazumder&label=Profile%20views&color=0e75b6&style=flat" alt="nilaymazumder" /> </p>
 
